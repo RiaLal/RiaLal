@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:556270&height=300&section=header&text=RIA%20LAL%20KURISINKAL&fontSize=70&fontColor=fff&animation=fadeIn&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ENGINEER%20◉%20BUSINESS%20ANALYST%20◉%20AWS%20EXPERT%20◉&descSize=18&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:556270&height=300&section=header&text=RIA%20LAL%20KURISINKAL&fontSize=70&fontColor=fff&animation=fadeIn&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ANALYST%20◉%20BUSINESS%20ANALYST%20◉%20DATA%20ENGINEERING%20◉&descSize=18&descAlign=50&descAlignY=75" />
 
 <br/>
 
